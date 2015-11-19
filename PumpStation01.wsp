@@ -1,0 +1,35 @@
+[VERSION]
+APIVERSION=(100)
+VERSION=(1,4,3,3)
+[FRAME]
+PLACEMENT=(44,2,3,-1,-1,-1,-1,125,125,1108,616)
+OUTPUT WINDOW=(44,0,1,-1,-1,-1,-1,0,23,703,200)
+FRAME DATA=(1,1,0,1)
+[FRAME DATA]
+1=(44,0,1,-1,-1,-8,-30,25,25,843,340)
+2=(44,2,3,-1,-1,-8,-30,50,50,872,369)
+3=(44,0,1,-1,-1,-1,-1,0,23,360,420)
+4=(44,0,1,-1,-1,-1,-1,0,23,360,259)
+5=(44,0,1,-1,-1,-1,-1,0,23,240,444)
+6=(44,0,1,-1,-1,-1,-1,0,23,703,200)
+[FRAME TYPES]
+1=20
+2=3
+3=14
+4=21
+5=25
+6=0
+[Ladder Views]
+F2V1=(95,1,0,7,16,5,2,1,1,1,1)
+[Ladder Frame 2]
+Ladder View 1z=(0,0,678,210)
+ModuleSegment=6
+[DOCKPANE TO FRAME XREF]
+Project Browser`6852=3
+Launchpad`6855=4
+Instruction Toolbox`4381=5
+Output`6851=6
+[DISPLAY MODE]
+DoMDIRestore=0
+[SYSTEM NAME]
+System Name=AM-WINDOWSVM
