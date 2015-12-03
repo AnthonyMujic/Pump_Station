@@ -20,7 +20,7 @@ FRAME DATA=(1,1,0,1)
 5=25
 6=0
 [Ladder Views]
-F2V1=(95,1,0,7,16,5,1,1,2,0,1)
+F2V1=(95,1,0,7,16,5,1,1,1,1,1)
 [Ladder Frame 2]
 Ladder View 1z=(0,0,1287,522)
 ModuleSegment=6
